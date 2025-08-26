@@ -1,0 +1,154 @@
+Driver 1,Driver 2,Connection Description
+OPEC+ Cuts,No New Refineries,"OPEC+ supply changes can amplify problems from limited U.S. refinery capacity, driving up fuel prices."
+OPEC+ Cuts,Market Speculation,OPEC+ decisions are major triggers for global speculative trading in oil and gas markets.
+OPEC+ Cuts,Dollar Strength,"Changes in OPEC+ output influence dollar demand since oil trades in USD, affecting currency and energy prices."
+OPEC+ Cuts,Extreme Weather,Disasters can prompt OPEC+ emergency measures; OPEC+ changes can worsen supply shocks from events.
+OPEC+ Cuts,Underinvestment,"OPEC+ supply management impacts global investment, influencing long-term supply and infrastructure."
+Ukraine War,LNG Exports,"The war forced Europe to replace Russian gas, directly increasing U.S. LNG exports."
+Ukraine War,European Demand,Russian supply disruptions created an urgent European need for new energy sources.
+Ukraine War,Grid Stability,Shifts in energy flows and geopolitical risk strain European grid resilience.
+Ukraine War,Cybersecurity,Conflict heightened cyberattack risks in energy sectors globally.
+Ukraine War,Insurance Costs,War risk premiums raised insurance costs for energy infrastructure.
+Ukraine War,Carbon Rules,"Security concerns can speed or slow climate policies, depending on government priorities."
+Ukraine War,Input Costs,"The conflict created global material shortages, raising energy project costs."
+LNG Exports,Ukraine War,U.S. LNG is a direct substitute for lost Russian supply amidst the conflict.
+LNG Exports,China Demand,Asian and European demand for LNG pinch global supply and drive prices.
+LNG Exports,Pipeline Limits,Limited U.S. pipeline capacity restricts how much gas can reach LNG terminals.
+LNG Exports,Shipping,Exporting LNG depends on sufficient specialized ships—which can constrain trade in high demand.
+Dollar Strength,OPEC+ Cuts,Dollar value affects OPEC+ strategic pricing and supply to non-dollar markets.
+Dollar Strength,Import Costs,Exchange rate shifts alter costs of imported energy equipment and materials.
+Dollar Strength,Labor Shortage,Labor migration and wage competitiveness depend partly on dollar strength.
+China Demand,LNG Exports,China's economic growth drives demand for U.S. and global LNG exports.
+China Demand,OPEC+ Cuts,Chinese demand forecasts can shape OPEC+ supply strategies.
+China Demand,Shipping,China's energy imports rely heavily on global shipping infrastructure.
+China Demand,Input Costs,China's industrial growth drives up global prices for energy infrastructure materials.
+China Demand,Labor Shortage,More global projects mean more competition among energy sector workers.
+China Demand,Market Speculation,News about China’s economy or policy fuels commodity speculation worldwide.
+China Demand,Cybersecurity,Tensions with China increase energy sector cyber risks.
+No New Refineries,OPEC+ Cuts,U.S. fuel prices are more sensitive when refining capacity lags behind crude supply changes.
+No New Refineries,Maintenance,"With fewer refineries, shutdowns for maintenance have outsized price impacts."
+No New Refineries,Environmental Rules,Regulations have blocked new refining projects for decades.
+No New Refineries,Permit Delays,Permitting and litigation slow or stall important refinery upgrades.
+No New Refineries,Labor Shortage,Lack of new facilities limits skilled worker training and availability.
+No New Refineries,Input Costs,Scarce refinery capacity makes product costs more sensitive to input price spikes.
+No New Refineries,Market Speculation,Bottlenecks in refining provide opportunities for price speculation.
+Aging Grid,Extreme Weather,"Older grid infrastructure is highly vulnerable to storms, heat, and other climate disruptions."
+Aging Grid,Renewable Mandates,Old grids require expensive upgrades to reliably integrate renewables.
+Aging Grid,Cybersecurity,Outdated systems make the grid a target for cyberattacks.
+Aging Grid,Skills Gap,Maintaining an old grid requires highly specialized workers in short supply.
+Aging Grid,Insurance Costs,Higher risk of failure and outages increases insurance premiums for utilities.
+Aging Grid,Market Speculation,Grid instability prompts speculation in electricity futures markets.
+Aging Grid,Dollar Strength,"Modernizing the grid often means importing equipment, exposing costs to currency fluctuations."
+Pipeline Limits,LNG Exports,"Weak pipeline networks bottleneck domestic gas supplies, limiting export growth."
+Pipeline Limits,Permit Delays,Stringent permitting blocks pipeline expansion and upgrades.
+Pipeline Limits,State Conflicts,Pipeline construction faces political fights between states over land and usage.
+Pipeline Limits,Labor Shortage,"Skilled labor is needed for construction and maintenance, but often in short supply."
+Pipeline Limits,Input Costs,"Steel, technology, and labor costs add price pressure to pipeline projects."
+Pipeline Limits,Insurance Costs,Environmental and operational risk drive up insurance costs for pipeline projects.
+Transformer Shortage,Grid Upgrades,Lack of transformers delays key grid reliability and expansion projects.
+Transformer Shortage,Extreme Weather,Fewer transformers mean longer outages and slower recovery after disasters.
+Transformer Shortage,Import Dependencies,"Most large transformers are sourced internationally, increasing supply chain risk."
+Deferred Maintenance,Labor Shortage,Delayed work creates a backlog that strains skilled labor resources.
+Deferred Maintenance,Investment,Years of deferred work force utilities to make large capital investments all at once.
+Deferred Maintenance,Safety Regulations,Poor maintenance may trigger stricter regulatory audits and new safety rules.
+Permit Delays,Pipeline Limits,Regulatory delays block much-needed pipeline projects.
+Permit Delays,Grid Upgrades,Lengthy reviews slow the approval and update of transmission infrastructure.
+Permit Delays,Renewable Projects,Red tape delays new wind and solar projects even with favorable economics.
+Permit Delays,Labor Shortage,Project delays reduce steady work and skilled training for energy workers.
+Permit Delays,Input Costs,Delays subject projects to rising material and storage costs.
+Permit Delays,Cybersecurity,"Slow upgrades force utilities to rely on older, less secure technology."
+Permit Delays,Insurance Costs,Regulatory uncertainty increases the risks insurers have to price in.
+Permit Delays,Market Speculation,Delays and uncertainty fuel volatility in energy prices and futures.
+Dual System Costs,Renewable Mandates,"Policy drives states to run fossil and renewable together, raising overall system cost."
+Dual System Costs,Grid Costs,Building and operating two parallel energy systems stokes grid spending.
+Dual System Costs,Reliability Needs,"Fossil systems are kept running to back up renewable variability, increasing costs."
+State Conflicts,Pipeline Limits,Conflicting state energy policies hinder efficient pipeline projects.
+State Conflicts,Renewable Mandates,Varying renewable standards create market frictions in interstate energy trading.
+State Conflicts,Trading Barriers,Regulatory differences act as barriers to interstate energy commerce.
+Carbon Rules,Stranded Assets,Climate regulations can make fossil infrastructure obsolete prematurely.
+Carbon Rules,Investment Uncertainty,Changing rules on carbon emissions cloud investment decisions.
+Carbon Rules,Coal Retirements,Tighter carbon limits push utilities to shut down coal plants sooner.
+Carbon Rules,Extreme Weather,Severe weather may cause governments to re-evaluate and accelerate carbon policy.
+Carbon Rules,Input Costs,Carbon compliance drives utilities to buy cleaner but costlier technology.
+Carbon Rules,Cybersecurity,New low-carbon infrastructure needs upgraded digital security.
+Carbon Rules,China Demand,Global carbon regulations affect Chinese manufacturing and energy consumption.
+Renewable Mandates,Dual System Costs,"Mandates result in fossil backup operated alongside renewables, increasing expenses."
+Renewable Mandates,Grid Upgrades,Meeting renewable targets requires significant grid modernization for reliability and integration.
+Renewable Mandates,Storage Needs,Targets mean utilities must invest in costly storage to ensure grid stability.
+Labor Shortage,Wages,Not enough qualified workers drives wage inflation across energy industries.
+Labor Shortage,Maintenance Delays,Difficulties filling skilled roles result in slower repairs and longer outages.
+Labor Shortage,Project Timelines,Workforce gaps mean energy projects take longer to complete.
+Labor Shortage,Extreme Weather,More severe events put extra demand on a limited pool of workers.
+Labor Shortage,Cybersecurity,A shortfall in cybersecurity experts leaves infrastructure vulnerable.
+Labor Shortage,China Demand,International competition for workers intensifies labor market tightness.
+Labor Shortage,Dollar Strength,Exchange rates affect recruitment and global labor flows.
+Labor Shortage,Permit Delays,Delays can discourage labor development and training for energy projects.
+Input Costs,All Infrastructure Projects,"Rising prices for steel, concrete, and electronics inflate costs for any energy asset."
+Input Costs,Maintenance,Costlier materials increase the expense of maintaining existing infrastructure.
+Input Costs,Extreme Weather,Disasters damage supply chains and drive up costs for repairs/upgrades.
+Input Costs,Ukraine War,"The war disrupted supply chains, especially metal, electronics, and fuel inputs."
+Input Costs,Insurance Costs,Cost volatility increases risk assessments and insurance premiums.
+Input Costs,China Demand,Chinese purchasing power pushes up global prices for resources and components.
+Cybersecurity,Insurance Costs,Higher cyber risk means higher premium costs for energy insurers.
+Cybersecurity,Grid Reliability,Vulnerabilities can cause widespread grid outages from cyberattacks.
+Cybersecurity,Pipeline Operations,"Hacks can shut down or disrupt pipelines (e.g., Colonial Pipeline incident)."
+Cybersecurity,China Demand,Tensions increase cyberattack risk and incident frequency.
+Cybersecurity,Extreme Weather,Disasters test the resilience of cybersecurity systems and staff.
+Cybersecurity,Market Speculation,Incidents drive energy price volatility as markets react to disruptions.
+Rising Wages,Labor Shortage,Worker scarcity leads directly to wage hikes as businesses compete for talent.
+Rising Wages,Skills Gap,The lack of trained workers accelerates wage growth for skilled positions.
+Rising Wages,Union Contracts,Labor negotiations for better pay increase overall project and energy costs.
+Skills Gap,Labor Shortage,"Upskilling and retraining lag behind, deepening workforce shortages in energy sectors."
+Skills Gap,New Technologies,Adoption of advanced technologies creates demand for specialized training.
+Skills Gap,Safety Issues,Lack of training increases risk of accidents and regulatory fines.
+Skills Gap,Underinvestment,Skills gaps may deter companies from investing in new or upgraded infrastructure.
+Skills Gap,Aging Grid,"An older grid needs specialized legacy knowledge, often missing among new workers."
+Utility Monopolies,Rate Structures,"Regulated utilities often enjoy guaranteed returns, which can dilute pricing competition."
+Utility Monopolies,Infrastructure Spending,Monopolies can over-invest in infrastructure with regulated cost recovery.
+Utility Monopolies,Regulatory Policies,Monopoly utilities operate within specific frameworks that affect rate-setting.
+Utility Monopolies,Cybersecurity,Monopolies may underinvest in new security if not driven by competition.
+Utility Monopolies,Labor Shortage,Guaranteed returns may reduce urgency to attract and retain workers.
+Utility Monopolies,Skills Gap,Less competition means less incentive for workforce development and innovation.
+Market Speculation,OPEC Decisions,"OPEC announcements are heavily traded on commodity markets, amplifying price swings."
+Market Speculation,Weather Events,Forecasts for hurricanes and heatwaves fuel trading and volatility.
+Market Speculation,Supply Disruptions,"Any supply event—pipeline, shipping, war—enters the trading cycle, driving up prices."
+Market Speculation,Extreme Weather,Disasters impact commodity pricing beyond physical supply by fueling speculation.
+Market Speculation,Labor Shortage,Uncertainty over workforce can drive trading on expected outages/failures.
+Market Speculation,Cybersecurity,Real and anticipated cyber incidents trigger price spikes in energy markets.
+Market Speculation,Permit Delays,Regulatory uncertainty increases price swings and speculative trading.
+Consolidation,Refinery Capacity,Fewer refinery owners mean less competition and more control over prices.
+Consolidation,Pipeline Control,Pipeline ownership concentration enables control over market access and rates.
+Consolidation,Market Power,Consolidation increases the ability of companies to set prices in their favor.
+Underinvestment,Grid,Reduced spending leads to grid weakness and deferred upgrades.
+Underinvestment,Pipelines,Cautious capital allocation means new pipelines are built less frequently.
+Underinvestment,Refinery Capacity,Lack of investment limits the ability to expand or modernize refining sectors.
+Underinvestment,Production,Intentional slow investment results in lower energy production when demand rises.
+Underinvestment,Extreme Weather,Fears of climate risk discourage long-term infrastructure spending.
+Underinvestment,Skills Gap,Investment uncertainty hinders workforce development and training.
+Underinvestment,Cybersecurity,Security upgrades are expensive and sometimes deferred in low capex periods.
+Underinvestment,OPEC+ Cuts,U.S. supply discipline gives OPEC+ greater global market control.
+Stranded Assets,Carbon Rules,"Climate policies threaten fossil infrastructure economics, demanding higher returns and risk premiums."
+Stranded Assets,Investment Decisions,Stranded asset risk influences project finance and planning—investors demand flexibility.
+Stranded Assets,Risk Premiums,Fear of early shutdowns increases required investment returns for new projects.
+Extreme Weather,Grid Failures,Severe weather events are a primary cause of power grid outages and blackouts.
+Extreme Weather,Refinery Shutdowns,"Storms and hurricanes force closures, reducing supplies and raising prices."
+Extreme Weather,Insurance,Disasters prompt insurers to raise rates and re-evaluate energy infrastructure risks.
+Extreme Weather,Labor Shortage,Extreme events interrupt jobs and strain workforce availability.
+Extreme Weather,Input Costs,Supply chain disruptions spike costs for emergency repairs and rebuilding.
+Extreme Weather,Market Speculation,Price volatility surges as traders react to disaster forecasts and events.
+Extreme Weather,Cybersecurity,Disasters can be compounded by cyber threats during periods of vulnerability.
+Seasonal Spikes,Cooling Demand,"Hot seasons drive spikes in electricity use for air conditioning, straining grids."
+Seasonal Spikes,Heating Needs,Cold seasons increase demand for natural gas and heating oil.
+Seasonal Spikes,Grid Stress,Seasonal demand spikes stress the grid and may force costly upgrades or shutdowns.
+Droughts,Cooling Demand,Low water supplies jeopardize cooling in power and industrial sectors.
+Droughts,Nuclear Operations,"Nuclear reactors require abundant water, making them vulnerable to drought."
+Droughts,Agriculture Competition,Farms and power plants compete for limited water during prolonged droughts.
+Insurance Costs,Extreme Weather,Infrastructure in disaster-prone areas faces much higher insurance rates.
+Insurance Costs,Coastal Facilities,"Coastal energy facilities have high risk from hurricanes and flooding, driving up insurance costs."
+Insurance Costs,Cyber Risks,Cyber incidents now factor into insurance assessments for energy assets.
+Insurance Costs,Labor Shortage,Higher insurance costs may delay or deter energy project hiring and completion.
+Insurance Costs,Input Costs,"Insurance requirements can mandate use of more costly, robust materials."
+Insurance Costs,Market Speculation,Changes in insurance rates alter energy investment decisions and trading behaviors.
+Cooling Demand,Population Shifts,Population growth in hotter regions increases demand for air conditioning and energy.
+Cooling Demand,Grid Capacity,"Higher cooling demand stresses existing grid infrastructure, prompting upgrades."
+Cooling Demand,Peak Pricing,Summer spikes in AC use trigger time-of-use peak pricing in electricity markets.
